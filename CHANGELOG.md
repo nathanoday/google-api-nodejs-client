@@ -4,6 +4,38 @@
 
 [1]: https://www.npmjs.com/package/googleapis?activeTab=versions
 
+## [62.0.0](https://www.github.com/googleapis/google-api-nodejs-client/compare/v61.0.0...v62.0.0) (2020-10-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* **realtimebidding:** This release has breaking changes.
+* **dialogflow:** This release has breaking changes.
+* **accesscontextmanager:** This release has breaking changes.
+
+### Features
+
+* regenerate index files ([06817be](https://www.github.com/googleapis/google-api-nodejs-client/commit/06817bebb25e2a1cf772c67faba5720717a14670))
+* **accesscontextmanager:** update the API ([97b0736](https://www.github.com/googleapis/google-api-nodejs-client/commit/97b07368c85a58992ab3b8fa34fb71d247b625d7))
+* **accesscontextmanager:** update the API ([afa950d](https://www.github.com/googleapis/google-api-nodejs-client/commit/afa950d6c8c984ead49d633482ddb145cba68d20))
+* **cloudshell:** update the API ([ae53887](https://www.github.com/googleapis/google-api-nodejs-client/commit/ae53887f920e9201b0234b81a53786d16155b270))
+* **dialogflow:** update the API ([022e6b6](https://www.github.com/googleapis/google-api-nodejs-client/commit/022e6b6f96d6eff2ac4f80beac424b4be69c9230))
+* **realtimebidding:** update the API ([3f67c3e](https://www.github.com/googleapis/google-api-nodejs-client/commit/3f67c3e03a66130f231ca457059ae2a39241907f))
+* **sqladmin:** update the API ([9ac4f68](https://www.github.com/googleapis/google-api-nodejs-client/commit/9ac4f68e81cc317c02668586358ff56161989a84))
+* regenerate index files ([8fd603f](https://www.github.com/googleapis/google-api-nodejs-client/commit/8fd603f78101f801c605cc5f9dd215de883fdcad))
+
+
+### Bug Fixes
+
+* **analyticsdata:** update the API ([95109ff](https://www.github.com/googleapis/google-api-nodejs-client/commit/95109ff91cd9270ab86d7b7443cab58f31966509))
+* **assuredworkloads:** update the API ([eb655aa](https://www.github.com/googleapis/google-api-nodejs-client/commit/eb655aab99660a3887ababc54b52da83e27d3b3e))
+* **cloudsearch:** update the API ([4ef36bf](https://www.github.com/googleapis/google-api-nodejs-client/commit/4ef36bff1ae11d3cd7e7bb135588d77fd274a133))
+* **composer:** update the API ([1f4a154](https://www.github.com/googleapis/google-api-nodejs-client/commit/1f4a154e6ea4cff959362587c51212e0edcdb5e6))
+* **dataproc:** update the API ([bebff81](https://www.github.com/googleapis/google-api-nodejs-client/commit/bebff81e293f7ae382a2be63fc64aea24c2d1de1))
+* **displayvideo:** update the API ([081aed9](https://www.github.com/googleapis/google-api-nodejs-client/commit/081aed9647a5b92fee356f9eedf68d204e8e7a56))
+* **people:** update the API ([9718714](https://www.github.com/googleapis/google-api-nodejs-client/commit/97187148dfa671e66c54e53fd59bea93262a2ee8))
+* **workflows:** update the API ([435c852](https://www.github.com/googleapis/google-api-nodejs-client/commit/435c852d79550395cae765d89f5a15956e335e80))
+
 ## [61.0.0](https://www.github.com/googleapis/google-api-nodejs-client/compare/v60.0.1...v61.0.0) (2020-10-05)
 
 
